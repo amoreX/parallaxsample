@@ -58,6 +58,18 @@ body{
 	font:700 7.8rem Atkinson Hyperlegible, -apple-system, Roboto, Helvetica, sans-serif;
 
 }
+.tex{
+	z-index: 10;
+	position:absolute;
+	top:42%;
+	left:43%;
+	transform:translate(-50%,-50%) scale(1);
+}
+.tex h2{
+	color:transparent;
+	font:700 7.8rem Atkinson Hyperlegible, -apple-system, Roboto, Helvetica, sans-serif;
+	-webkit-text-stroke: 1px white !important;
+}
 
 .l4{
 	z-index: 6;

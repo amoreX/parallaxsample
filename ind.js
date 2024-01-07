@@ -12,3 +12,4 @@ window.addEventListener("mousemove", (e) => {
         item.style.transform = `translateX(calc(-50% + ${-xVal*speedx}px)) translateY(calc(-50% + ${yVal*speedx}px))`;
     });
 });
+
